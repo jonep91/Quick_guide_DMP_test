@@ -65,9 +65,9 @@ Example image to ilustrate the front page of the material. This image was [Desig
 
 ## General context
 
-Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
+Welcome to our Quick guide to DMP workshop! We are very happy to have you here.
 
-This is the {{workshop_edition}} edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
+This is the first edition of this workshop, organised by Vrije Universiteit Brussel.
 
 - The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
 
@@ -75,15 +75,7 @@ The **presentation** which goes alongside this material can be found [here](http
 
 ## Proposed Schedule
 
-Schedule day 1:
-
-- 9:30 - 11:00 - session
-- 11:00 - 11:15 - break
-- 11:15 - 12:45 - session
-- 12:45 - 13:45 - lunch
-- 13:45 - 15:15 - session
-- 15:15 - 15:30 - break
-- 15:30 - 17:00 - session
+3 minutes of explanation.
 
 </section>
 
@@ -91,33 +83,22 @@ Schedule day 1:
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 >
-> <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
+> <i class="fa fa-user"></i> **Target Audience:** All researchers that need to/want to write a DMP.
 >
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
-> To be able to follow this course, learners should have knowledge in:
-> 
-> 1. Basic knowlegde of HTML  
-> 2. Basic knowledge of ...
-> 3. Being comfortable working with ....  
+> none  
 >
-> <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
+> <i class="fa fa-bookmark"></i> **Description**  In just three minutes, we will unpack the essentials of a Data Management Plan — what it is, why funders care, and most important, how it can make your research life easier.
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Define what ..... [Remembering] 
+> 1. Explain what a DMP is 
 >
-> 2. Discuss and explain ..... [Understanding] 
+> 2. Express why a DMP is important
 >
-> 3. Apply and modify ..... [Applying] 
->
-> 4. Compare ..... [Analysing] 
->
-> 5. Evaluate and select ..... [Evaluating] 
->
-> 6. Create and integrate ..... [Creating]
 >
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
