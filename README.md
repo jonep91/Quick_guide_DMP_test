@@ -1,6 +1,6 @@
 <!--
-author:   name last_name
-email:    trainingandconferences@vib.be
+author:   Jone Paesmans
+email:    jone.paesmans@vub.be
 version:  2.0.0
 language: en
 narrator: UK English Female
@@ -23,7 +23,7 @@ link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&disp
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vib-styles.css
 
-tutor:    Neuropixels
+tutor:    Quick guide to DMP
 edition:  1st 
 
 @JSONLD
@@ -46,13 +46,13 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 -->
 
-# Course Title
+# A quick guide to DMP
 
 <section>
 
 Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
-This is the @edition edition of this workshop, jointly organised by your organisation and ELIXIR.
+This is the @edition edition of this workshop, organised by Vrije Universiteit Brussel.
 
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
