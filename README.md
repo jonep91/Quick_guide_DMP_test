@@ -100,38 +100,31 @@ The **presentation** which goes alongside this material can be found [here](http
 > 2. Express why a DMP is important
 >
 >
->> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
-> <i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
+> <i class="fa fa-hourglass"></i> **Time estimation**: 3 minutes
 >
-> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
+> <i class="fa fa-asterisk"></i> **Requirements:** none
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. [Exercises and solutions]()
-> 2. [Slides]()  
+> [Slides](https://github.com/jonep91/Quick_guide_DMP_test/tree/main/supplementary)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
 > * [ELIXIR Belgium](https://www.elixir-belgium.org/)
 > * [VIB Technologies](https://www.vib.be/)
 >
-> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
->
-> <i class="fa fa-anchor"></i> **PURL**:  
+> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from FRDN.
+>  
 
 
 # Authors and Contributors
 
 Authors
 
-- [Name](@[orcid](https://orcid.org/XXXX)
+- [Jone Paesmans](@[orcid](https://orcid.org/0000-0002-3292-4609)
 
-Contributors
 
-- [Name](@[orcid](https://orcid.org/XXXY))
-- [Name](@[orcid](https://orcid.org/XXXZ))
-- [Name](@[orcid](https://orcid.org/XXXA))
 
 ## Citing this lesson
 
