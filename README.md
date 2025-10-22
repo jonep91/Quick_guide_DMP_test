@@ -1,3 +1,4 @@
+[![DOI](https://sandbox.zenodo.org/badge/1080457518.svg)](https://handle.test.datacite.org/10.5072/zenodo.389620)
 <!--
 author:   Jone Paesmans
 email:    jone.paesmans@vub.be
@@ -246,6 +247,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
