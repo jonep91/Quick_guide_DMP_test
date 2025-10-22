@@ -55,9 +55,7 @@ Hello and welcome to our workshop "A quick guide to DMP"! We are very happy to h
 
 This is the 1st edition of this workshop, organised by Vrije Universiteit Brussel.
 
-<img src="./images/globes/41920.jpg" width="350" align="center"/>
-
-Example image to ilustrate the front page of the material. This image was [Designed by macrovector / Freepik](https://www.freepik.com/free-vector/globe-earth-world-icons-vector-white-black_10601425.htm#fromView=author&page=1&position=27&uuid=726a85e1-abc9-4f55-a242-bdb7cd5733f1)
+<img src="./images/DMP.png" width="350" align="center"/>
 
 
 
