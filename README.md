@@ -24,7 +24,7 @@ link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&disp
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vib-styles.css
 
-tutor:    Quick guide to DMP
+tutor:    A quick guide to DMP
 edition:  1st 
 
 @JSONLD
@@ -51,18 +51,15 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 
 <section>
 
-Hello and welcome to our @tutor workshop! We are very happy to have you here.
+Hello and welcome to our workshop "A quick guide to DMP"! We are very happy to have you here.
 
-This is the @edition edition of this workshop, organised by Vrije Universiteit Brussel.
+This is the 1st edition of this workshop, organised by Vrije Universiteit Brussel.
 
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
 Example image to ilustrate the front page of the material. This image was [Designed by macrovector / Freepik](https://www.freepik.com/free-vector/globe-earth-world-icons-vector-white-black_10601425.htm#fromView=author&page=1&position=27&uuid=726a85e1-abc9-4f55-a242-bdb7cd5733f1)
 
-> We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
-> It is a distributed way of creating and sharing educational content hosted on github.
-> To see this document as an interactive LiaScript rendered version, click on the
-> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/main/README.md)
+
 
 ## General context
 
@@ -70,9 +67,7 @@ Welcome to our Quick guide to DMP workshop! We are very happy to have you here.
 
 This is the first edition of this workshop, organised by Vrije Universiteit Brussel.
 
-- The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
 
-The **presentation** which goes alongside this material can be found [here](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md).
 
 ## Proposed Schedule
 
@@ -100,16 +95,18 @@ The **presentation** which goes alongside this material can be found [here](http
 >
 > 2. Express why a DMP is important
 >
->
->
 > <i class="fa fa-hourglass"></i> **Time estimation**: 3 minutes
 >
 > <i class="fa fa-asterisk"></i> **Requirements:** none
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> [Slides](https://github.com/jonep91/Quick_guide_DMP_test/tree/main/supplementary)  
+> [Slides as powerpoint presentation](./supplementary/Quick_DMP_guide_VIBcourse.pptx)  
 > 
+>[Slides as PDF](./supplementary/Quick_DMP_guide_VIBcourse.pdf)
+>
+>[Slides as Open Document Presentation](./supplementary/Quick_DMP_guide_VIBcourse.odp)
+>
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
 > * [ELIXIR Belgium](https://www.elixir-belgium.org/)
@@ -131,7 +128,7 @@ Authors
 
 Please cite as:
 
-  1. ...
+ Paesmans, J. (2025, oktober 22). Quick guide to DMP (test): Initial release. Zenodo. https://doi.org/10.5072/zenodo.389621
 
 # Chapters List
 
