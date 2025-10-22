@@ -141,6 +141,13 @@ Please cite as:
 | 2     | [Chapter title](link)                                             |
 | 3     | [Chapter title](link)                                             |
 
+# Training Video
+
+![Video](https://img.youtube.com/vi/5U9_DDdBzYk/0.jpg)  
+[Watch on YouTube](https://www.youtube.com/watch?v=5U9_DDdBzYk)
+
+[Download the transcript of the video]()
+
 
 # References
 
